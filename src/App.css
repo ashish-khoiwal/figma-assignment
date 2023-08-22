@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* @font-face {
+  font-family: "AgrandirRegular";
+  src: url('/public/webfonts/Agrandir-GrandHeavy.otf') format('otf');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+} */
